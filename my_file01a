@@ -1,0 +1,14 @@
+cd scripts
+ls
+cat health_checks.py
+
+./health_checks.py
+
+sudo chmod +x health_checks.py
+
+
+sudo apt install python3-requests
+
+sudo chmod +x network.py
+
+nano health_checks.py
